@@ -1,3 +1,6 @@
+# Адитья Бхаргава - Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих
+Список ошибок для [pdf-версии](https://www.piter.com/collection/all/product/grokaem-algoritmy-illyustrirovannoe-posobie-dlya-programmistov-i-lyubopytstvuyuschih-2), выпущенной в 2017 г. издательством "Питер". Составлен на основе [Errata](http://adit.io/errata.html) английской версии и найденных мной при прочтении русского издания. 
+
 ## Глава 1
 
 Полный код бинарного поиска включает следующую строку:
